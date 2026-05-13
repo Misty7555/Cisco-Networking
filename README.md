@@ -297,7 +297,7 @@ Through these labs, I gained practical experience in:
 3. Explore router & switch configurations
 4. Test routing and connectivity
 5. Modify configurations for practice
-
+```
 👨‍💻 Author
 Adya Bhardwaj
 B.Tech — Computer Science & Engineering
